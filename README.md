@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Yocelin 
 
-Know a little about me:
-
-[Avatar](https://drive.google.com/file/d/1L-Y1mPl1Pojd9bpRCpVgqhyah9yTxeBH/view?usp=sharing)
+There are some funny facts to know little about me:
 
 - 🔭 I’m currently working on *Konfio* as a Backend Developer at the *Chain* team.
 - 🌱 I’m currently learning *Swift*.
